@@ -19,4 +19,6 @@ public class User {
         this.role = _role;
     }
 
+    public Boolean admin;
+
 }
